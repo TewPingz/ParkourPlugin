@@ -1,0 +1,8 @@
+name: ParkourPlugin
+version: '${project.version}'
+main: me.tewpingz.parkourplugin.ParkourPlugin
+api-version: 1.18
+depend: [ WorldGuard ]
+authors: [ TewPingz ]
+description: A Parkour Plugin made for DevRoom application
+website: https://www.tewpingz.me
